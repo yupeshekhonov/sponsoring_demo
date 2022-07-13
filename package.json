@@ -1,0 +1,12 @@
+{
+  "name": "yuriy_playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "YURIY PESHEKHONOV <107192102+yupeshekhonov@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@unique-nft/api": "^0.1.5",
+    "dotenv": "^16.0.1",
+    "esno": "^0.16.3"
+  }
+}
